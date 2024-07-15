@@ -8,7 +8,7 @@
 
 本书假设你使用 Rust 1.78.0（2024-05-02 发布）或更新的版本。请查看 [第 1 章的 “安装” 部分][install] 了解如何安装和升级 Rust。
 
-本书的英文原版 HTML 格式可以在 [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/) 在线阅读；使用 `rustup` 安装的 Rust 也包含一份英文离线版，运行 `rustup docs --book` 即可打开。
+本书的英文原版 HTML 格式可以在 [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)  在线阅读；使用 `rustup` 安装的 Rust 也包含一份英文离线版，运行 `rustup docs --book` 即可打开。
 
 本书还有一些社区 [翻译版本][translations]。简体中文译本可以在 [https://kaisery.github.io/trpl-zh-cn/](https://kaisery.github.io/trpl-zh-cn/) 在线阅读。
 
